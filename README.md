@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **joao-lusa/joao-lusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I am João Lucas. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I am João Lucas.
 <a href="//www.instagram.com/jao_luska_/?hl=pt-br">
   <img align="left" alt="Abhishek's Discord" width="22px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRzHrKibygaIdxvcboA7VegGcuuc9AptWIg&usqp=CAU" />
 </a>
