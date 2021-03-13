@@ -16,6 +16,8 @@
 I am a student of Analysis and systems development at the University of Ulbra in Brasil, Rio Grande do Sul.
 I really like the T.I area and I'm looking for new opportunities.
 
+<p> 📫 How to reach me joaosombrio@rede.ulbra.br<p>
+
 ### Languages and Tools
 
 <a><img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><a>
