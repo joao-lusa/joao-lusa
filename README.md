@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am João Lucas.
 <a href="//www.instagram.com/jao_luska_/?hl=pt-br">
-  <img align="left" alt="Abhishek's Discord" width="22px" src= "https://i.pinimg.com/474x/5d/36/d5/5d36d57c4bfb5da2300ec333595166af.jpg" />
+  <img align="left" alt="Abhishek's Discord" width="50px" src= "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />
 </a>
 <a href="https://twitter.com/JaoLuska">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
