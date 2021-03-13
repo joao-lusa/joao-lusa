@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I am João Lucas.
 <a href="//www.instagram.com/jao_luska_/?hl=pt-br">
-  <img align="left" alt="Abhishek's Discord" width="22px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRzHrKibygaIdxvcboA7VegGcuuc9AptWIg&usqp=CAU" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src= "https://i.pinimg.com/474x/5d/36/d5/5d36d57c4bfb5da2300ec333595166af.jpg" />
 </a>
 <a href="https://twitter.com/JaoLuska">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
