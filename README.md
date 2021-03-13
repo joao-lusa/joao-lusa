@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jao_lusa)
  <br>
+ 
+I am a student of Analysis and systems development at the University of Ulbra in Brasil, Rio Grande do Sul.
+I really like the T.I area and I'm looking for new opportunities.
