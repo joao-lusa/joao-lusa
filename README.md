@@ -20,11 +20,11 @@ I really like the T.I area and I'm looking for new opportunities.
 
 ### Languages and Tools
 
-<a><img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><a>
-<a><img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><a>
-<a><img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><a>  
-<a><img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/><a>
-<a><img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/><a>
+<p><img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><p>
+<p><img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><p>
+<p><img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><p>  
+<p><img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/><p>
+<p><img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/><p>
 
 <br>
 
