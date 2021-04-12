@@ -17,6 +17,7 @@ I am a student of Analysis and systems development at the University of Ulbra in
 I really like the T.I area and I'm looking for new opportunities.
 
 - 📫 How to reach me **joaosombrio@rede.ulbra.br**
+- 
 
 ### Languages and Tools
 
@@ -30,6 +31,6 @@ I really like the T.I area and I'm looking for new opportunities.
 
 ##
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lusa&theme=tokyonight&layout=compact" /> </p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joao-lusa&show_icons=true" alt="joao-lusa" /> </p>
 
-<p aling="cemter"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lusa&theme=tokyonight&layout=compact" /> </p> 
