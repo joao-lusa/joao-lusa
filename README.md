@@ -26,6 +26,8 @@ I really like the T.I area and I'm looking for new opportunities.
 <p><img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><p>  
 <p><img align="left" alt="php" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/><p>
 <p><img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/><p>
+ <p><img align="left" alt="SQL/" width="35px" src="https://image.flaticon.com/icons/png/128/2305/2305934.png"/><p>
+
 
 <br>
 
