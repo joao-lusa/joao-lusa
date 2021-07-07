@@ -35,5 +35,4 @@ I really like the T.I area and I'm looking for new opportunities.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=joao-lusa&show_icons=true" alt="joao-lusa" /> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lusa&theme=tokyonight&layout=compact" /> </p> 
 
