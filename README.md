@@ -13,6 +13,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jao_lusa)
  <br>
  
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Ulbra no Brasil, Rio Grande do Sul.
+Gosto muito da área de T.I e estou em busca de novas oportunidades.
+ 
 I am a student of Analysis and systems development at the University of Ulbra in Brasil, Rio Grande do Sul.
 I really like the T.I area and I'm looking for new opportunities.
 
