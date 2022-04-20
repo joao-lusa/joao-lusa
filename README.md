@@ -14,10 +14,10 @@
  <br>
  
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Ulbra no Brasil, Rio Grande do Sul.
-Gosto muito da área de T.I e estou em busca de novas oportunidades.
+Gosto muito da área de T.I e estou sempre a procura de novos conhecimentos.
  
 I am a student of Analysis and systems development at the University of Ulbra in Brasil, Rio Grande do Sul.
-I really like the T.I area and I'm looking for new opportunities.
+I really like the T.I area and i'm always looking for new knowledge.
 
 - 📫 How to reach me **joaosombrio@rede.ulbra.br**
 - https://joao-lusa.github.io/Linktree/
