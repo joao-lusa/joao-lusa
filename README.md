@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">
+### Hi there
 ## I am João Lucas.
 <a href="//www.instagram.com/jao_luska_/?hl=pt-br">
   <img align="left" alt="insta" width="50px" src= "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />
