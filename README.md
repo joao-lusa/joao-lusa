@@ -37,6 +37,4 @@ I really like the T.I area and i'm always looking for new knowledge.
 
 ##
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=joao-lusa&show_icons=true" alt="joao-lusa" /> </p>
-
 
